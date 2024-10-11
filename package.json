@@ -1,0 +1,23 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "star playing game",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"play\"",
+    "\"game\"]"
+  ],
+  "author": "Salaman Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
