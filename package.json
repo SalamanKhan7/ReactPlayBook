@@ -2,9 +2,10 @@
   "name": "hello-react",
   "version": "1.0.0",
   "description": "star playing game",
-  "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
   },
   "keywords": [
     "[\"play\"",
