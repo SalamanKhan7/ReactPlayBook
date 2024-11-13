@@ -1,4 +1,4 @@
-6005
+6007
 85C:\Users\Salaman Khan\Desktop\hello-react\node_modules\css-what\lib\commonjs\index.js133731380260762939 0
 72C:\Users\Salaman Khan\Desktop\hello-react\node_modules\has-flag\index.js133731380266539598 0
 64C:\Users\Salaman Khan\Desktop\hello-react\node_modules\env-paths133731380283369931 1
@@ -13,7 +13,7 @@
 99C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@swc\helpers\esm\_interop_require_default.js133731380493429444 0
 54C:\Users\Salaman Khan\Desktop\hello-react\package.json133731400256569727 0
 85C:\Users\Salaman Khan\Desktop\hello-react\node_modules\svgo\plugins\removeComments.js133731380392444894 0
-52C:\Users\Salaman Khan\Desktop\hello-react\.gitignore133731391194119922 0
+52C:\Users\Salaman Khan\Desktop\hello-react\.gitignore133759453535625690 0
 63C:\Users\Salaman Khan\Desktop\hello-react\node_modules\css-what133731380323013052 1
 75C:\Users\Salaman Khan\Desktop\hello-react\node_modules\picocolors\README.md133731380277323397 0
 105C:\Users\Salaman Khan\Desktop\hello-react\node_modules\caniuse-lite\data\features\intersectionobserver.js133731380511025455 0
@@ -23,7 +23,7 @@
 83C:\Users\Salaman Khan\Desktop\hello-react\node_modules\type-fest\source\except.d.ts133731380314847744 0
 65C:\Users\Salaman Khan\Desktop\hello-react\node_modules\is-extglob133731380271426801 1
 102C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133731380258264342 0
-46C:\Users\Salaman Khan\Desktop\hello-react\dist133731400361800616 1
+46C:\Users\Salaman Khan\Desktop\hello-react\dist133759460335185884 1
 76C:\Users\Salaman Khan\Desktop\hello-react\node_modules\csso\dist\csso.esm.js133731380377513470 0
 96C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\core\src\requests\AssetRequest.js133731380345025556 0
 113C:\Users\Salaman Khan\Desktop\hello-react\node_modules\csso\node_modules\css-tree\lib\syntax\node\TypeSelector.js133731380483025286 0
@@ -40,7 +40,7 @@
 99C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133731380347084386 0
 72C:\Users\Salaman Khan\Desktop\hello-react\node_modules\dotenv-expand\lib133731380283409909 1
 82C:\Users\Salaman Khan\Desktop\hello-react\node_modules\entities\lib\encode-trie.js133731380291885278 0
-48C:\Users\Salaman Khan\Desktop\hello-react\App.js133721036048794914 0
+48C:\Users\Salaman Khan\Desktop\hello-react\App.js133759460332322430 0
 132C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133731380418720960 0
 93C:\Users\Salaman Khan\Desktop\hello-react\node_modules\svgo\plugins\addClassesToSVGElement.js133731380363285086 0
 72C:\Users\Salaman Khan\Desktop\hello-react\node_modules\boolbase\index.js133731380266529599 0
@@ -49,7 +49,7 @@
 84C:\Users\Salaman Khan\Desktop\hello-react\node_modules\utility-types\dist\index.d.ts133731380321334015 0
 98C:\Users\Salaman Khan\Desktop\hello-react\node_modules\caniuse-lite\data\features\online-status.js133731380531298730 0
 75C:\Users\Salaman Khan\Desktop\hello-react\node_modules\htmlnano\index.d.cts133731380344425908 0
-52C:\Users\Salaman Khan\Desktop\hello-react\index.html133731392091481224 0
+52C:\Users\Salaman Khan\Desktop\hello-react\index.html133759454216154661 0
 97C:\Users\Salaman Khan\Desktop\hello-react\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133731380467973663 0
 97C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\utils\test\input\config\empty.toml133731380413194136 0
 83C:\Users\Salaman Khan\Desktop\hello-react\node_modules\semver\functions\rcompare.js133731380349173179 0
@@ -75,7 +75,6 @@
 106C:\Users\Salaman Khan\Desktop\hello-react\node_modules\css-select\node_modules\domutils\lib\feeds.d.ts.map133731380325711500 0
 87C:\Users\Salaman Khan\Desktop\hello-react\node_modules\react-error-overlay\lib\index.js133731380289356509 0
 100C:\Users\Salaman Khan\Desktop\hello-react\node_modules\node-gyp-build-optional-packages\package.json133731380283339966 0
-51C:\Users\Salaman Khan\Desktop\hello-react\README.md133731392482149218 0
 99C:\Users\Salaman Khan\Desktop\hello-react\node_modules\entities\lib\generated\decode-data-html.d.ts133731380328519887 0
 103C:\Users\Salaman Khan\Desktop\hello-react\node_modules\htmlnano\lib\modules\sortAttributesWithLists.cjs133731380343846238 0
 90C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@swc\helpers\_\_update\package.json133731380439508562 0
@@ -1004,6 +1003,7 @@
 105C:\Users\Salaman Khan\Desktop\hello-react\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Url.cjs133731380419460544 0
 83C:\Users\Salaman Khan\Desktop\hello-react\node_modules\@parcel\workers\lib\types.js133731380348293716 0
 87C:\Users\Salaman Khan\Desktop\hello-react\node_modules\svgo\plugins\removeDimensions.js133731380392764706 0
+64C:\Users\Salaman Khan\Desktop\hello-react\dist\index.7826abd7.js133759460334916053 0
 84C:\Users\Salaman Khan\Desktop\hello-react\node_modules\svgo\plugins\removeDoctype.js133731380392904623 0
 72C:\Users\Salaman Khan\Desktop\hello-react\node_modules\svgo\lib\style.js133731380349093222 0
 75C:\Users\Salaman Khan\Desktop\hello-react\node_modules\.bin\detect-libc.cmd133731380653350683 0
@@ -6003,4 +6003,6 @@
 68C:\Users\Salaman Khan\Desktop\hello-react\dist\index.03652dde.js.map133731400361790647 0
 64C:\Users\Salaman Khan\Desktop\hello-react\dist\index.6bd02f5a.js133731399486639842 0
 68C:\Users\Salaman Khan\Desktop\hello-react\dist\index.6bd02f5a.js.map133731399486749776 0
-57C:\Users\Salaman Khan\Desktop\hello-react\dist\index.html133731400361700684 0
+51C:\Users\Salaman Khan\Desktop\hello-react\README.md133759452779913171 0
+57C:\Users\Salaman Khan\Desktop\hello-react\dist\index.html133759456196578580 0
+68C:\Users\Salaman Khan\Desktop\hello-react\dist\index.7826abd7.js.map133759460335165911 0
